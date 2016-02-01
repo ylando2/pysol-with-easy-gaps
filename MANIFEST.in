@@ -1,0 +1,74 @@
+# -*- mode: sh -*-
+## MANIFEST.in for PySolFC
+##
+## code
+##
+include pysol.py setup.py setup_osx.py setup.cfg MANIFEST.in Makefile
+include COPYING README AUTHORS
+#recursive-include pysollib *.py
+include pysollib/*.py pysollib/macosx/*.py pysollib/configobj/*.py
+include pysollib/winsystems/*.py
+include pysollib/tk/*.py pysollib/tile/*.py pysollib/pysolgtk/*.py
+include pysollib/games/*.py pysollib/games/special/*.py
+include pysollib/games/ultra/*.py pysollib/games/mahjongg/*.py
+include data/tcl/*.tcl
+include data/pysol.desktop
+include data/pysolfc.glade
+graft data/themes
+include scripts/build.bat scripts/create_iss.py scripts/mahjongg_utils.py
+include scripts/pygettext.py scripts/all_games.py scripts/cardset_viewer.py
+#graft data/plugins
+##
+## data - docs
+##
+include docs/*
+graft data/html
+graft html-src
+##
+## data - images
+##
+#graft data/images
+recursive-include data/images *.gif *.png *.jpg
+graft data/tiles
+include data/pysol.xbm data/pysol.xpm data/pysol.ico data/PySol.icns
+##
+## data - sound
+##
+#graft data/music
+#include data/music/Astral_Dreams.COPYRIGHT
+#include data/music/Astral_Dreams.it
+#include data/music/Bye_For_Now.COPYRIGHT
+#include data/music/Bye_For_Now.s3m
+#include data/music/Past_and_Future.COPYRIGHT
+#include data/music/Past_and_Future.it
+#include data/music/Ranger_Song.COPYRIGHT
+#include data/music/Ranger_Song.s3m
+#include data/music/Subsequential.COPYRIGHT
+#include data/music/Subsequential.mod
+graft data/sound
+##
+## data - i18n
+##
+include po/*
+graft locale
+##
+## data - cardsets
+##
+graft data/cardset-2000
+graft data/cardset-crystal-mahjongg
+graft data/cardset-dashavatara-ganjifa
+graft data/cardset-hexadeck
+graft data/cardset-kintengu
+graft data/cardset-gnome-mahjongg-1
+graft data/cardset-matrix
+graft data/cardset-mughal-ganjifa
+graft data/cardset-oxymoron
+graft data/cardset-standard
+graft data/cardset-tuxedo
+graft data/cardset-vienna-2k
+graft data/cardset-dondorf
+##
+## exclude dirs
+##
+global-exclude .xvpics/* .thumbnails/*
+global-exclude .svn/* .svn/*/*

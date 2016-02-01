@@ -1,0 +1,3437 @@
+<html>
+<head>
+  <title>PySolFC - List of solitaire games</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+<b>Total games: 1061</b>
+<h2>Categories</h2>
+<ul>
+<li>French (722 games)</li>
+<li>Mahjongg (200 games)</li>
+<li>Hanafuda (43 games)</li>
+<li>Tarock (22 games)</li>
+<li>Mughal Ganjifa (20 games)</li>
+<li>Dashavatara Ganjifa (20 games)</li>
+<li>Hex A Deck (19 games)</li>
+<li>Trumps only (15 games)</li>
+</ul>
+<h2>Types</h2>
+<ul>
+<li>Baker's Dozen (16 games)</li>
+<li>Beleaguered Castle (25 games)</li>
+<li>Canfield (22 games)</li>
+<li>Dashavatara Ganjifa (20 games)</li>
+<li>Fan (30 games)</li>
+<li>Forty Thieves (66 games)</li>
+<li>Four-Deck game (1 games)</li>
+<li>FreeCell (40 games)</li>
+<li>Golf (15 games)</li>
+<li>Gypsy (32 games)</li>
+<li>Hanafuda (43 games)</li>
+<li>Hex A Deck (19 games)</li>
+<li>Klondike (55 games)</li>
+<li>Mahjongg (191 games)</li>
+<li>Matrix (8 games)</li>
+<li>Memory (4 games)</li>
+<li>Montana (14 games)</li>
+<li>Mughal Ganjifa (20 games)</li>
+<li>Napoleon (14 games)</li>
+<li>Numerica (38 games)</li>
+<li>One-Deck game (73 games)</li>
+<li>Pairing (36 games)</li>
+<li>Poker (2 games)</li>
+<li>Puzzle (11 games)</li>
+<li>Raglan (17 games)</li>
+<li>Shisen-Sho (9 games)</li>
+<li>Spider (62 games)</li>
+<li>Tarock (22 games)</li>
+<li>Terrace (10 games)</li>
+<li>Three-Deck game (2 games)</li>
+<li>Two-Deck game (114 games)</li>
+<li>Yukon (30 games)</li>
+</ul>
+<table border="2">
+<tr><th>ID</th><th>Name</th><th>Alternate names</th><th>Type</th></tr>
+
+<tr><td>1</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/gypsy.html" title="Rules for this game">Gypsy</a>
+</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>2</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/klondike.html" title="Rules for this game">Klondike</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>3</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/irmgard.html" title="Rules for this game">Irmgard</a>
+</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>4</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/8x8.html" title="Rules for this game">8 x 8</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>5</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/relaxedfreecell.html" title="Rules for this game">Relaxed FreeCell</a>
+</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>6</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/relaxedseahaventowers.html" title="Rules for this game">Relaxed Seahaven Towers</a>
+</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>7</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/picturegallery.html" title="Rules for this game">Picture Gallery</a>
+</td><td>Die Bildgallerie<br>Mod-3</td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>8</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/freecell.html" title="Rules for this game">FreeCell</a>
+</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>9</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/seahaventowers.html" title="Rules for this game">Seahaven Towers</a>
+</td><td>Sea Towers<br>Towers</td><td>French (FreeCell)</td></tr>
+
+<tr><td>10</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/relaxedspider.html" title="Rules for this game">Relaxed Spider</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>11</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/spider.html" title="Rules for this game">Spider</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>12</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/braid.html" title="Rules for this game">Braid</a>
+</td><td>Der Zopf<br>Plait<br>Pigtail</td><td>French (Napoleon)</td></tr>
+
+<tr><td>13</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fortythieves.html" title="Rules for this game">Forty Thieves</a>
+</td><td>Napoleon at St.Helena<br>Le Cadran</td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>14</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/groundsforadivorce.html" title="Rules for this game">Grounds for a Divorce</a>
+</td><td>Scheidungsgrund</td><td>French (Spider)</td></tr>
+
+<tr><td>15</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bigharp.html" title="Rules for this game">Big Harp</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>16</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/eiffeltower.html" title="Rules for this game">Eiffel Tower</a>
+</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>17</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/matriarchy.html" title="Rules for this game">Matriarchy</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>18</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/klondikebythrees.html" title="Rules for this game">Klondike by Threes</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>19</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/yukon.html" title="Rules for this game">Yukon</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>20</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/russiansolitaire.html" title="Rules for this game">Russian Solitaire</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>21</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/doubleklondike.html" title="Rules for this game">Double Klondike</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>23</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fortyandeight.html" title="Rules for this game">Forty and Eight</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>24</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/spiderette.html" title="Rules for this game">Spiderette</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>25</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/gargantua.html" title="Rules for this game">Gargantua</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>26</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/kingonlybakersgame.html" title="Rules for this game">King Only Baker's Game</a>
+</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>27</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/odessa.html" title="Rules for this game">Odessa</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>28</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/doubleklondikebythrees.html" title="Rules for this game">Double Klondike by Threes</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>29</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/scorpion.html" title="Rules for this game">Scorpion</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>30</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/windmill.html" title="Rules for this game">Windmill</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>31</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bakersdozen.html" title="Rules for this game">Baker's Dozen</a>
+</td><td></td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>33</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/westcliff.html" title="Rules for this game">Westcliff</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>34</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/beleagueredcastle.html" title="Rules for this game">Beleaguered Castle</a>
+</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>35</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/unionsquare.html" title="Rules for this game">Union Square</a>
+</td><td>British Square</td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>36</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/golf.html" title="Rules for this game">Golf</a>
+</td><td></td><td>French (Golf)</td></tr>
+
+<tr><td>37</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/larasgame.html" title="Rules for this game">Lara's Game</a>
+</td><td>Thirteen Packs</td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>38</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pyramid.html" title="Rules for this game">Pyramid</a>
+</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>39</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/smallharp.html" title="Rules for this game">Small Harp</a>
+</td><td>Die kleine Harfe</td><td>French (Klondike)</td></tr>
+
+<tr><td>40</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/elevator.html" title="Rules for this game">Elevator</a>
+</td><td>Egyptian Solitaire<br>Pyramid Golf</td><td>French (Golf)</td></tr>
+
+<tr><td>41</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pileon.html" title="Rules for this game">PileOn</a>
+</td><td>Fifteen Puzzle</td><td>French (One-Deck game)</td></tr>
+
+<tr><td>42</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bristol.html" title="Rules for this game">Bristol</a>
+</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>43</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/chameleon.html" title="Rules for this game">Chameleon</a>
+</td><td>Kansas</td><td>French (Canfield)</td></tr>
+
+<tr><td>45</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bakersgame.html" title="Rules for this game">Baker's Game</a>
+</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>46</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/forecell.html" title="Rules for this game">ForeCell</a>
+</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>47</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/babyspiderette.html" title="Rules for this game">Baby Spiderette</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>48</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/willothewisp.html" title="Rules for this game">Will o' the Wisp</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>49</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/blackwidow.html" title="Rules for this game">Black Widow</a>
+</td><td>Scarab</td><td>French (Spider)</td></tr>
+
+<tr><td>50</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/simplesimon.html" title="Rules for this game">Simple Simon</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>51</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/steps.html" title="Rules for this game">Steps</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>53</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/montana.html" title="Rules for this game">Montana</a>
+</td><td>Gaps</td><td>French (Montana)</td></tr>
+
+<tr><td>54</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/royalcotillion.html" title="Rules for this game">Royal Cotillion</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>55</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/oddandeven.html" title="Rules for this game">Odd and Even</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>56</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fan.html" title="Rules for this game">Fan</a>
+</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>57</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/shamrocks.html" title="Rules for this game">Shamrocks</a>
+</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>58</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/thumbandpouch.html" title="Rules for this game">Thumb and Pouch</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>59</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/osmosis.html" title="Rules for this game">Osmosis</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>60</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/peek.html" title="Rules for this game">Peek</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>61</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/casinoklondike.html" title="Rules for this game">Casino Klondike</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>62</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/missmilligan.html" title="Rules for this game">Miss Milligan</a>
+</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>63</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bluemoon.html" title="Rules for this game">Blue Moon</a>
+</td><td>Rangoon</td><td>French (Montana)</td></tr>
+
+<tr><td>64</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/penguin.html" title="Rules for this game">Penguin</a>
+</td><td>Beak and Flipper</td><td>French (FreeCell)</td></tr>
+
+<tr><td>65</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/giant.html" title="Rules for this game">Giant</a>
+</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>66</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/eastcliff.html" title="Rules for this game">Eastcliff</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>67</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/whitehead.html" title="Rules for this game">Whitehead</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>68</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/lexingtonharp.html" title="Rules for this game">Lexington Harp</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>69</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/indian.html" title="Rules for this game">Indian</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>70</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/numberten.html" title="Rules for this game">Number Ten</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>71</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/rankandfile.html" title="Rules for this game">Rank and File</a>
+</td><td>Dress Parade</td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>73</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/maria.html" title="Rules for this game">Maria</a>
+</td><td>Maria Luisa</td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>74</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/midshipman.html" title="Rules for this game">Midshipman</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>76</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/streets.html" title="Rules for this game">Streets</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>77</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/stalactites.html" title="Rules for this game">Stalactites</a>
+</td><td>Grampus<br>Old Mole</td><td>French (FreeCell)</td></tr>
+
+<tr><td>78</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/milligancell.html" title="Rules for this game">Milligan Cell</a>
+</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>79</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/waningmoon.html" title="Rules for this game">Waning Moon</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>80</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/busyaces.html" title="Rules for this game">Busy Aces</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>81</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/blindalleys.html" title="Rules for this game">Blind Alleys</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>83</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/castlesinspain.html" title="Rules for this game">Castles in Spain</a>
+</td><td></td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>84</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/martha.html" title="Rules for this game">Martha</a>
+</td><td></td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>85</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/spanishpatience.html" title="Rules for this game">Spanish Patience</a>
+</td><td></td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>86</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/goodmeasure.html" title="Rules for this game">Good Measure</a>
+</td><td></td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>87</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/scotchpatience.html" title="Rules for this game">Scotch Patience</a>
+</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>88</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/trefoil.html" title="Rules for this game">Trefoil</a>
+</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>89</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/montecarlo.html" title="Rules for this game">Monte Carlo</a>
+</td><td>Quilt</td><td>French (Pairing)</td></tr>
+
+<tr><td>90</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/simplecarlo.html" title="Rules for this game">Simple Carlo</a>
+</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>91</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/simplepairs.html" title="Rules for this game">Simple Pairs</a>
+</td><td>Jamestown</td><td>French (Pairing)</td></tr>
+
+<tr><td>92</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/neighbour.html" title="Rules for this game">Neighbour</a>
+</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>93</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/royaleast.html" title="Rules for this game">Royal East</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>94</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/hopscotch.html" title="Rules for this game">Hopscotch</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>95</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/auldlangsyne.html" title="Rules for this game">Auld Lang Syne</a>
+</td><td>Patience</td><td>French (Numerica)</td></tr>
+
+<tr><td>96</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fourteen.html" title="Rules for this game">Fourteen</a>
+</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>97</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/carpet.html" title="Rules for this game">Carpet</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>98</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/blackhole.html" title="Rules for this game">Black Hole</a>
+</td><td></td><td>French (Golf)</td></tr>
+
+<tr><td>99</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/rainfall.html" title="Rules for this game">Rainfall</a>
+</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>100</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/storehouse.html" title="Rules for this game">Storehouse</a>
+</td><td>Provisions<br>Straight Up<br>Thirteen Up</td><td>French (Canfield)</td></tr>
+
+<tr><td>101</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/superiorcanfield.html" title="Rules for this game">Superior Canfield</a>
+</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>102</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/variegatedcanfield.html" title="Rules for this game">Variegated Canfield</a>
+</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>103</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/americantoad.html" title="Rules for this game">American Toad</a>
+</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>104</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/cruel.html" title="Rules for this game">Cruel</a>
+</td><td></td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>105</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/canfield.html" title="Rules for this game">Canfield</a>
+</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>106</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/doublecanfield.html" title="Rules for this game">Double Canfield</a>
+</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>107</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/passeul.html" title="Rules for this game">Pas Seul</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>108</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/rainbow.html" title="Rules for this game">Rainbow</a>
+</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>109</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/deuces.html" title="Rules for this game">Deuces</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>110</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/courtyard.html" title="Rules for this game">Courtyard</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>111</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/doublets.html" title="Rules for this game">Doublets</a>
+</td><td>Double or Quits</td><td>French (One-Deck game)</td></tr>
+
+<tr><td>112</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/eaglewing.html" title="Rules for this game">Eagle Wing</a>
+</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>113</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/zebra.html" title="Rules for this game">Zebra</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>114</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/grandmothersgame.html" title="Rules for this game">Grandmother's Game</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>115</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/littleforty.html" title="Rules for this game">Little Forty</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>116</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/spaces.html" title="Rules for this game">Spaces</a>
+</td><td></td><td>French (Montana)</td></tr>
+
+<tr><td>117</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/redmoon.html" title="Rules for this game">Red Moon</a>
+</td><td></td><td>French (Montana)</td></tr>
+
+<tr><td>118</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/siebenbisas.html" title="Rules for this game">Sieben bis As</a>
+</td><td></td><td>French (Montana)</td></tr>
+
+<tr><td>119</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/diekoenigsbergerin.html" title="Rules for this game">Die Koenigsbergerin</a>
+</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>120</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/badseven.html" title="Rules for this game">Bad Seven</a>
+</td><td>Die boese Sieben</td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>121</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mississippi.html" title="Rules for this game">Mississippi</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>122</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/griffon.html" title="Rules for this game">Griffon</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>123</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/interregnum.html" title="Rules for this game">Interregnum</a>
+</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>124</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/towerofhanoy.html" title="Rules for this game">Tower of Hanoy</a>
+</td><td></td><td>French (Puzzle)</td></tr>
+
+<tr><td>125</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/lucas.html" title="Rules for this game">Lucas</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>126</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/redandblack.html" title="Rules for this game">Red and Black</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>127</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/eighttimeseight.html" title="Rules for this game">Eight Times Eight</a>
+</td><td>Achtmal Acht</td><td>French (Klondike)</td></tr>
+
+<tr><td>128</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/threeshufflesandadraw.html" title="Rules for this game">Three Shuffles and a Draw</a>
+</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>129</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/vegasklondike.html" title="Rules for this game">Vegas Klondike</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>130</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/perpetualmotion.html" title="Rules for this game">Perpetual Motion</a>
+</td><td>First Law</td><td>French (One-Deck game)</td></tr>
+
+<tr><td>131</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/doublerail.html" title="Rules for this game">Double Rail</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>132</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/superflowergarden.html" title="Rules for this game">Super Flower Garden</a>
+</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>133</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/batsford.html" title="Rules for this game">Batsford</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>134</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/betsyross.html" title="Rules for this game">Betsy Ross</a>
+</td><td>Fairest<br>Four Kings<br>Musical Patience<br>Quadruple Alliance<br>Plus Belle</td><td>French (One-Deck game)</td></tr>
+
+<tr><td>135</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/terrace.html" title="Rules for this game">Terrace</a>
+</td><td></td><td>French (Terrace)</td></tr>
+
+<tr><td>136</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/generalspatience.html" title="Rules for this game">General's Patience</a>
+</td><td></td><td>French (Terrace)</td></tr>
+
+<tr><td>137</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/blondesandbrunettes.html" title="Rules for this game">Blondes and Brunettes</a>
+</td><td></td><td>French (Terrace)</td></tr>
+
+<tr><td>138</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fallingstar.html" title="Rules for this game">Falling Star</a>
+</td><td></td><td>French (Terrace)</td></tr>
+
+<tr><td>139</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pokersquare.html" title="Rules for this game">Poker Square</a>
+</td><td></td><td>French (Poker)</td></tr>
+
+<tr><td>140</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pokershuffle.html" title="Rules for this game">Poker Shuffle</a>
+</td><td></td><td>French (Poker)</td></tr>
+
+<tr><td>141</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/catstail.html" title="Rules for this game">Cat's Tail</a>
+</td><td>Der Katzenschwanz</td><td>French (FreeCell)</td></tr>
+
+<tr><td>142</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/snake.html" title="Rules for this game">Snake</a>
+</td><td>Die Schlange</td><td>French (FreeCell)</td></tr>
+
+<tr><td>143</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/kingdom.html" title="Rules for this game">Kingdom</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>144</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/maze.html" title="Rules for this game">Maze</a>
+</td><td></td><td>French (Montana)</td></tr>
+
+<tr><td>145</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/citadel.html" title="Rules for this game">Citadel</a>
+</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>146</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/streetsandalleys.html" title="Rules for this game">Streets and Alleys</a>
+</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>147</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fortress.html" title="Rules for this game">Fortress</a>
+</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>148</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/chessboard.html" title="Rules for this game">Chessboard</a>
+</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>149</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/diplomat.html" title="Rules for this game">Diplomat</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>150</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/congress.html" title="Rules for this game">Congress</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>151</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/ladypalk.html" title="Rules for this game">Lady Palk</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>152</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/thelastmonarch.html" title="Rules for this game">The Last Monarch</a>
+</td><td>Der letzte Monarch</td><td>French (One-Deck game)</td></tr>
+
+<tr><td>153</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pasdedeux.html" title="Rules for this game">Pas de Deux</a>
+</td><td></td><td>French (Montana)</td></tr>
+
+<tr><td>154</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/brunswick.html" title="Rules for this game">Brunswick</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>157</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/wheeloffortune.html" title="Rules for this game">Wheel of Fortune</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>158</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/imperialtrumps.html" title="Rules for this game">Imperial Trumps</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>159</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pagat.html" title="Rules for this game">Pagat</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>160</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/skiz.html" title="Rules for this game">Skiz</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>161</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fifteenplus.html" title="Rules for this game">Fifteen plus</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>162</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/excuse.html" title="Rules for this game">Excuse</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>163</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/grasshopper.html" title="Rules for this game">Grasshopper</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>164</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/doublegrasshopper.html" title="Rules for this game">Double Grasshopper</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>165</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bitsnbytes.html" title="Rules for this game">Bits n Bytes</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>166</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/hexaklon.html" title="Rules for this game">Hex A Klon</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>167</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/derkleinenapoleon.html" title="Rules for this game">Der kleine Napoleon</a>
+</td><td></td><td>French (Napoleon)</td></tr>
+
+<tr><td>168</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/derfreienapoleon.html" title="Rules for this game">Der freie Napoleon</a>
+</td><td></td><td>French (Napoleon)</td></tr>
+
+<tr><td>169</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/napoleon.html" title="Rules for this game">Napoleon</a>
+</td><td></td><td>French (Napoleon)</td></tr>
+
+<tr><td>170</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/freenapoleon.html" title="Rules for this game">Free Napoleon</a>
+</td><td></td><td>French (Napoleon)</td></tr>
+
+<tr><td>171</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/ladybetty.html" title="Rules for this game">Lady Betty</a>
+</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>172</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/tamoshanter.html" title="Rules for this game">Tam O'Shanter</a>
+</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>173</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/strategy.html" title="Rules for this game">Strategy</a>
+</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>174</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/russianpatience.html" title="Rules for this game">Russian Patience</a>
+</td><td>Die Russische</td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>175</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/longbraid.html" title="Rules for this game">Long Braid</a>
+</td><td>Der lange Zopf</td><td>French (Napoleon)</td></tr>
+
+<tr><td>176</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/memory24.html" title="Rules for this game">Memory 24</a>
+</td><td></td><td>French (Memory)</td></tr>
+
+<tr><td>177</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/memory40.html" title="Rules for this game">Memory 40</a>
+</td><td></td><td>French (Memory)</td></tr>
+
+<tr><td>178</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/concentration.html" title="Rules for this game">Concentration</a>
+</td><td></td><td>French (Memory)</td></tr>
+
+<tr><td>179</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/ponytail.html" title="Rules for this game">Ponytail</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>180</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pegged.html" title="Rules for this game">Pegged</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>181</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pegged.html" title="Rules for this game">Pegged Cross 1</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>182</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pegged.html" title="Rules for this game">Pegged Cross 2</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>183</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pegged.html" title="Rules for this game">Pegged 6x6</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>184</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pegged.html" title="Rules for this game">Pegged 7x7</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>185</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/wasp.html" title="Rules for this game">Wasp</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>186</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/alaska.html" title="Rules for this game">Alaska</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>187</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/chinesediscipline.html" title="Rules for this game">Chinese Discipline</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>188</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/chinesesolitaire.html" title="Rules for this game">Chinese Solitaire</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>189</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/queenie.html" title="Rules for this game">Queenie</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>190</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/rushdike.html" title="Rules for this game">Rushdike</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>191</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/russianpoint.html" title="Rules for this game">Russian Point</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>192</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/abacus.html" title="Rules for this game">Abacus</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>193</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/relaxedpyramid.html" title="Rules for this game">Relaxed Pyramid</a>
+</td><td> Pyramid's Stones</td><td>French (Pairing)</td></tr>
+
+<tr><td>194</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/rachel.html" title="Rules for this game">Rachel</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>195</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/quadrangle.html" title="Rules for this game">Quadrangle</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>196</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/corona.html" title="Rules for this game">Corona</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>197</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/tripleline.html" title="Rules for this game">Triple Line</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>198</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/napoleonsexile.html" title="Rules for this game">Napoleon's Exile</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>199</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/singlerail.html" title="Rules for this game">Single Rail</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>200</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/nomad.html" title="Rules for this game">Nomad</a>
+</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>201</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/sanibel.html" title="Rules for this game">Sanibel</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>202</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/cavalier.html" title="Rules for this game">Cavalier</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>203</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fiveaces.html" title="Rules for this game">Five Aces</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>204</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/wicked.html" title="Rules for this game">Wicked</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>205</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/nasty.html" title="Rules for this game">Nasty</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>206</td><td>Fortunes</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>207</td><td>Hanoi Puzzle 4</td><td></td><td>French (Puzzle)</td></tr>
+
+<tr><td>208</td><td>Hanoi Puzzle 5</td><td></td><td>French (Puzzle)</td></tr>
+
+<tr><td>209</td><td>Hanoi Puzzle 6</td><td></td><td>French (Puzzle)</td></tr>
+
+<tr><td>210</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pegged.html" title="Rules for this game">Pegged Triangle 1</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>211</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pegged.html" title="Rules for this game">Pegged Triangle 2</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>212</td><td>Weddings</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>213</td><td>Russian Aces</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>214</td><td>Belvedere</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>215</td><td>Somerset</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>216</td><td>Monte Carlo (2 decks)</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>217</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/milliganharp.html" title="Rules for this game">Milligan Harp</a>
+</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>218</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/carlton.html" title="Rules for this game">Carlton</a>
+</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>219</td><td>Memory 30</td><td></td><td>French (Memory)</td></tr>
+
+<tr><td>220</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/rougeetnoir.html" title="Rules for this game">Rouge et Noir</a>
+</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>221</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/stonewall.html" title="Rules for this game">Stonewall</a>
+</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>222</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/flowergarden.html" title="Rules for this game">Flower Garden</a>
+</td><td>The Bouquet<br>The Garden</td><td>French (Raglan)</td></tr>
+
+<tr><td>223</td><td>Brigade</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>224</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/easthaven.html" title="Rules for this game">Easthaven</a>
+</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>225</td><td>Westhaven</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>226</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/blockade.html" title="Rules for this game">Blockade</a>
+</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>227</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/intelligence.html" title="Rules for this game">Intelligence</a>
+</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>228</td><td>Limited</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>229</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/agnessorel.html" title="Rules for this game">Agnes Sorel</a>
+</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>230</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/jane.html" title="Rules for this game">Jane</a>
+</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>231</td><td>Canister</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>232</td><td>Raglan</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>233</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/kingalbert.html" title="Rules for this game">King Albert</a>
+</td><td>Idiot's Delight</td><td>French (Raglan)</td></tr>
+
+<tr><td>234</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/alhambra.html" title="Rules for this game">Alhambra</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>235</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/nestor.html" title="Rules for this game">Nestor</a>
+</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>236</td><td>Agnes Bernauer</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>256</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/calculation.html" title="Rules for this game">Calculation</a>
+</td><td>Progression</td><td>French (One-Deck game)</td></tr>
+
+<tr><td>257</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/numerica.html" title="Rules for this game">Numerica</a>
+</td><td>Sir Tommy</td><td>French (Numerica)</td></tr>
+
+<tr><td>258</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/eightoff.html" title="Rules for this game">Eight Off</a>
+</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>259</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/deadkinggolf.html" title="Rules for this game">Dead King Golf</a>
+</td><td></td><td>French (Golf)</td></tr>
+
+<tr><td>260</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/relaxedgolf.html" title="Rules for this game">Relaxed Golf</a>
+</td><td>Putt Putt</td><td>French (Golf)</td></tr>
+
+<tr><td>261</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/grandfathersclock.html" title="Rules for this game">Grandfather's Clock</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>263</td><td>Phoenix</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>264</td><td>Double FreeCell</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>265</td><td>Triple FreeCell</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>266</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/dover.html" title="Rules for this game">Dover</a>
+</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>267</td><td>Four Leaf Clovers</td><td></td><td>French (Golf)</td></tr>
+
+<tr><td>268</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/houseinthewood.html" title="Rules for this game">House in the Wood</a>
+</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>269</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/spider.html" title="Rules for this game">Spider (1 suit)</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>270</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/spider.html" title="Rules for this game">Spider (2 suits)</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>271</td><td>Double Yukon</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>272</td><td>Triple Yukon</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>273</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/tripleklondike.html" title="Rules for this game">Triple Klondike</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>274</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/tripleklondikebythrees.html" title="Rules for this game">Triple Klondike by Threes</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>275</td><td>Galary</td><td></td><td>French (Montana)</td></tr>
+
+<tr><td>276</td><td>Moonlight</td><td></td><td>French (Montana)</td></tr>
+
+<tr><td>277</td><td>Napoleon's Tomb</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>278</td><td>Grandfather</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>279</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/kings.html" title="Rules for this game">Kings</a>
+</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>280</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/camelot.html" title="Rules for this game">Camelot</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>281</td><td>Escalator</td><td></td><td>French (Golf)</td></tr>
+
+<tr><td>282</td><td>Dutchess</td><td>Duchess<br>Glenwood</td><td>French (Canfield)</td></tr>
+
+<tr><td>283</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/jumbo.html" title="Rules for this game">Jumbo</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>284</td><td>Ten Across</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>285</td><td>Panopticon</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>286</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/retinue.html" title="Rules for this game">Retinue</a>
+</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>287</td><td>Push Pin</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>288</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/royalmarriage.html" title="Rules for this game">Royal Marriage</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>289</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pileon.html" title="Rules for this game">Small PileOn</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>290</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bisley.html" title="Rules for this game">Bisley</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>291</td><td>Royal Family</td><td></td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>292</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/capricieuse.html" title="Rules for this game">Capricieuse</a>
+</td><td></td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>293</td><td>Nationale</td><td>Zigzag Course</td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>294</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/curdsandwhey.html" title="Rules for this game">Curds and Whey</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>295</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/napoleonssquare.html" title="Rules for this game">Napoleon's Square</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>296</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/colorado.html" title="Rules for this game">Colorado</a>
+</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>298</td><td>Open Peek</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>299</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/saliclaw.html" title="Rules for this game">Salic Law</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>300</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/stronghold.html" title="Rules for this game">Stronghold</a>
+</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>301</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fastness.html" title="Rules for this game">Fastness</a>
+</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>302</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/sthelena.html" title="Rules for this game">St. Helena</a>
+</td><td>Napoleon's Favorite<br>Washington's Favorite</td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>303</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/tournament.html" title="Rules for this game">Tournament</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>304</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/lanivernaise.html" title="Rules for this game">La Nivernaise</a>
+</td><td>Napoleon's Flank</td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>305</td><td>Three Blind Mice</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>306</td><td>Zerline</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>307</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/headsandtails.html" title="Rules for this game">Heads and Tails</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>308</td><td>Portuguese Solitaire</td><td></td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>309</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mrsmop.html" title="Rules for this game">Mrs. Mop</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>310</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/emperor.html" title="Rules for this game">Emperor</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>311</td><td>Dumfries</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>312</td><td>Galloway</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>313</td><td>Robin</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>314</td><td>Wave Motion</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>315</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/gate.html" title="Rules for this game">Gate</a>
+</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>316</td><td>Little Gate</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>317</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/houseinthewood.html" title="Rules for this game">House on the Hill</a>
+</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>318</td><td>Needle</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>319</td><td>Haystack</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>320</td><td>Clover Leaf</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>321</td><td>Carthage</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>322</td><td>Algerian Patience</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>323</td><td>Octave</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>324</td><td>Bastion</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>325</td><td>Ten by One</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>326</td><td>Lanes</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>327</td><td>Thirty Six</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>328</td><td>The Wish</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>329</td><td>The Wish (open)</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>330</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/sultan.html" title="Rules for this game">Sultan</a>
+</td><td>Sultan of Turkey</td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>331</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/sultan.html" title="Rules for this game">Sultan +</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>332</td><td>Mumbai</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>333</td><td>Open Jumbo</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>334</td><td>Take Away</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>335</td><td>Four Stacks</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>336</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/freecell.html" title="Rules for this game">Challenge FreeCell</a>
+</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>337</td><td>Super Challenge FreeCell</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>338</td><td>Buffalo Bill</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>339</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/moosehide.html" title="Rules for this game">Moosehide</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>340</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/intelligence.html" title="Rules for this game">Intelligence +</a>
+</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>341</td><td>Cicely</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>342</td><td>Trillium</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>343</td><td>Lily</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>344</td><td>Chelicera</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>345</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/scorpionhead.html" title="Rules for this game">Scorpion Head</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>346</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/scorpiontail.html" title="Rules for this game">Scorpion Tail</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>347</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/freefan.html" title="Rules for this game">Free Fan</a>
+</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>348</td><td>Arachnida</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>349</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/missmuffet.html" title="Rules for this game">Miss Muffet</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>350</td><td>Q.C.</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>351</td><td>Chequers</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>352</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/nordic.html" title="Rules for this game">Nordic</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>353</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/acesup5.html" title="Rules for this game">Aces Up 5</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>354</td><td>Boudoir</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>355</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/frog.html" title="Rules for this game">Frog</a>
+</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>356</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/frog.html" title="Rules for this game">Fly</a>
+</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>357</td><td>Gnat</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>358</td><td>Fort</td><td></td><td>French (Napoleon)</td></tr>
+
+<tr><td>359</td><td>Spider Web</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>360</td><td>Munger</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>361</td><td>Northwest Territory</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>362</td><td>Morehead</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>363</td><td>Spidercells</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>364</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/sevenbyfour.html" title="Rules for this game">Seven by Four</a>
+</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>365</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/sevenbyfive.html" title="Rules for this game">Seven by Five</a>
+</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>366</td><td>Simon Jester</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>367</td><td>Pitchfork</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>368</td><td>Vertical</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>369</td><td>Ripple Fan</td><td></td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>370</td><td>Genesis</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>371</td><td>Genesis +</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>372</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/doublebisley.html" title="Rules for this game">Double Bisley</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>373</td><td>Gloria</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>374</td><td>Realm</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>375</td><td>Mancunian</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>376</td><td>Backbone</td><td></td><td>French (Napoleon)</td></tr>
+
+<tr><td>377</td><td>Backbone +</td><td></td><td>French (Napoleon)</td></tr>
+
+<tr><td>378</td><td>Gloaming</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>379</td><td>Chamberlain</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>380</td><td>Jungle</td><td></td><td>French (Montana)</td></tr>
+
+<tr><td>381</td><td>Spaces and Aces</td><td></td><td>French (Montana)</td></tr>
+
+<tr><td>382</td><td>Applegate</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>383</td><td>Bath</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>384</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bigspider.html" title="Rules for this game">Big Spider</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>385</td><td>Box Fan</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>386</td><td>Kingsdown Eights</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>387</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/roslin.html" title="Rules for this game">Roslin</a>
+</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>388</td><td>Senate</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>389</td><td>Senate +</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>390</td><td>Arizona</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>391</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/britishconstitution.html" title="Rules for this game">British Constitution</a>
+</td><td>Constitution</td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>392</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/newbritishconstitution.html" title="Rules for this game">New British Constitution</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>393</td><td>Castle of Indolence</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>394</td><td>Clink</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>395</td><td>Zerline (3 decks)</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>396</td><td>Triple Canfield</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>397</td><td>Great Wheel</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>398</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mountolympus.html" title="Rules for this game">Mount Olympus</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>399</td><td>Zeus</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>400</td><td>Rittenhouse</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>401</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bigdivorce.html" title="Rules for this game">Big Divorce</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>402</td><td>Toad</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>403</td><td>Acme</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>404</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/perseverance.html" title="Rules for this game">Perseverance</a>
+</td><td></td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>405</td><td>All in a Row</td><td></td><td>French (Golf)</td></tr>
+
+<tr><td>406</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/amazons.html" title="Rules for this game">Amazons</a>
+</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>407</td><td>Aunt Mary</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>408</td><td>Box Kite</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>409</td><td>Bridesmaids</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>410</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/captivequeens.html" title="Rules for this game">Captive Queens</a>
+</td><td>Quadrille</td><td>French (One-Deck game)</td></tr>
+
+<tr><td>411</td><td>Carre Napoleon</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>412</td><td>Cone</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>413</td><td>Duke</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>414</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/germanpatience.html" title="Rules for this game">German Patience</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>415</td><td>Bavarian Patience</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>416</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fortunesfavor.html" title="Rules for this game">Fortune's Favor</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>417</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fourseasons.html" title="Rules for this game">Corners</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>418</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/contradance.html" title="Rules for this game">Contradance</a>
+</td><td>Cotillion</td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>419</td><td>Idle Aces</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>420</td><td>Double Dot</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>421</td><td>Little Billie</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>422</td><td>Minerva</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>423</td><td>Lady of the Manor</td><td>Vassal<br>La Chatelaine</td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>424</td><td>Matrimony</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>425</td><td>New York</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>426</td><td>Octagon</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>427</td><td>Opus</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>428</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/parallels.html" title="Rules for this game">Parallels</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>429</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/patriarchs.html" title="Rules for this game">Patriarchs</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>430</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pussinthecorner.html" title="Rules for this game">Puss in the Corner</a>
+</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>431</td><td>Queen of Italy</td><td></td><td>French (Terrace)</td></tr>
+
+<tr><td>432</td><td>Robert</td><td></td><td>French (Golf)</td></tr>
+
+<tr><td>433</td><td>Rows of Four</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>434</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/sevendevils.html" title="Rules for this game">Seven Devils</a>
+</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>435</td><td>Shifting</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>436</td><td>Simplex</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>437</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fourseasons.html" title="Rules for this game">Simplicity</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>438</td><td>Sixes and Sevens</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>439</td><td>Solid Square</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>440</td><td>Squadron</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>441</td><td>York</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>442</td><td>Deep</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>443</td><td>Twenty</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>444</td><td>Big York</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>445</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bigspider.html" title="Rules for this game">Big Spider (1 suit)</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>446</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bigspider.html" title="Rules for this game">Big Spider (2 suits)</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>447</td><td>Australian Patience</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>448</td><td>Repair</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>449</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bigspider.html" title="Rules for this game">Spider 3x3</a>
+</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>450</td><td>Raw Prawn</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>451</td><td>Cell 11</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>452</td><td>Double Easthaven</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>453</td><td>Triple Easthaven</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>454</td><td>Spider (4 decks)</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>455</td><td>Very Big Divorce</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>456</td><td>Bim Bom</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>457</td><td>Algerian Patience (3 decks)</td><td></td><td>French (Three-Deck game)</td></tr>
+
+<tr><td>458</td><td>Spidike</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>459</td><td>Fred's Spider</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>460</td><td>Fred's Spider (3 decks)</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>461</td><td>Open Spider</td><td>Beetle</td><td>French (Spider)</td></tr>
+
+<tr><td>462</td><td>Josephine</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>463</td><td>Surprise</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>464</td><td>Four Colours</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>465</td><td>Granada</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>466</td><td>Double Russian Solitaire</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>467</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/zodiac.html" title="Rules for this game">Zodiac</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>468</td><td>Spike</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>469</td><td>Phantom Blockade</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>470</td><td>Moving Left</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>471</td><td>Souter</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>472</td><td>Strategerie</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>473</td><td>Big Forty</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>474</td><td>Ali Baba</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>475</td><td>Cassim</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>476</td><td>Demon</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>477</td><td>Corner Suite</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>478</td><td>Elba</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>479</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/saratoga.html" title="Rules for this game">Saratoga</a>
+</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>480</td><td>Trusty Twelve</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>481</td><td>Knotty Nines</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>482</td><td>Sweet Sixteen</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>483</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fourseasons.html" title="Rules for this game">Czarina</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>484</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fourseasons.html" title="Rules for this game">Four Seasons</a>
+</td><td>Corner Card<br>Vanishing Cross</td><td>French (One-Deck game)</td></tr>
+
+<tr><td>485</td><td>Dieppe</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>486</td><td>Imperial Guards</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>487</td><td>Millie</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>488</td><td>Triple Russian Solitaire</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>489</td><td>Little Napoleon</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>490</td><td>Acquaintance</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>491</td><td>Whitehorse</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>492</td><td>Geoffrey</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>493</td><td>Marie Rose</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>494</td><td>Mystique</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>495</td><td>Lady Jane</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>496</td><td>Inquisitor</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>497</td><td>Arabella</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>498</td><td>Steve</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>499</td><td>Signora</td><td></td><td>French (Terrace)</td></tr>
+
+<tr><td>500</td><td>Madame</td><td></td><td>French (Terrace)</td></tr>
+
+<tr><td>501</td><td>Wake-Robin</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>502</td><td>Wake-Robin (3 decks)</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>503</td><td>Big Streets</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>504</td><td>Number Twelve</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>505</td><td>Big Courtyard</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>506</td><td>Express</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>507</td><td>Lightweight</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>508</td><td>Castle Mount</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>509</td><td>Big Cell</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>510</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bigbraid.html" title="Rules for this game">Big Braid</a>
+</td><td></td><td>French (Napoleon)</td></tr>
+
+<tr><td>511</td><td>Double Scorpion</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>512</td><td>Triple Scorpion</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>513</td><td>Ocean Towers</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>514</td><td>Carnation</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>515</td><td>Indefatigable</td><td></td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>516</td><td>Troika</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>517</td><td>Quads</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>518</td><td>Boost</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>519</td><td>Gotham</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>520</td><td>German FreeCell</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>521</td><td>Canfield Rush</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>522</td><td>Artic Garden</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>523</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/intrigue.html" title="Rules for this game">Intrigue</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>524</td><td>Selective Castle</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>525</td><td>Queensland</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>526</td><td>Outback Patience</td><td></td><td>French (Yukon)</td></tr>
+
+<tr><td>527</td><td>Doorway</td><td>Solstice</td><td>French (Klondike)</td></tr>
+
+<tr><td>528</td><td>Final Battle</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>529</td><td>San Juan Hill</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>530</td><td>Russian Spider</td><td>Ukrainian Solitaire</td><td>French (Spider)</td></tr>
+
+<tr><td>531</td><td>Double Russian Spider</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>532</td><td>Gold Rush</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>533</td><td>Mamy Susan</td><td></td><td>French (Terrace)</td></tr>
+
+<tr><td>534</td><td>Harvestman</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>535</td><td>Exiled Kings</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>536</td><td>Master</td><td></td><td>French (Napoleon)</td></tr>
+
+<tr><td>537</td><td>The Little Corporal</td><td></td><td>French (Napoleon)</td></tr>
+
+<tr><td>538</td><td>Bonaparte</td><td></td><td>French (Napoleon)</td></tr>
+
+<tr><td>539</td><td>Usk</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>540</td><td>Waterloo</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>541</td><td>Batsford Again</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>542</td><td>KingCell</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>543</td><td>Farmer's Wife</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>544</td><td>How They Run</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>545</td><td>Big Deal</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>546</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/virginiareel.html" title="Rules for this game">Royal Parade</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>547</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/virginiareel.html" title="Rules for this game">Virginia Reel</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>548</td><td>Parliament</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>549</td><td>Wheatsheaf</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>550</td><td>One234</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>551</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/diamondmine.html" title="Rules for this game">Diamond Mine</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>552</td><td>Cover</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>553</td><td>Scuffle</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>554</td><td>Foursome</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>555</td><td>Quartets</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>556</td><td>Junction</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>557</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/grandduchess.html" title="Rules for this game">Grand Duchess</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>558</td><td>Numerica (2 decks)</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>559</td><td>Marshal</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>560</td><td>Double Acquaintance</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>561</td><td>Dutch Solitaire</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>562</td><td>Delivery</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>563</td><td>Twin Queens</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>564</td><td>The Spark</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>565</td><td>Royal Aids</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>566</td><td>Hypotenuse</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>567</td><td>Eternal Triangle</td><td>Lobachevsky</td><td>French (Gypsy)</td></tr>
+
+<tr><td>568</td><td>Right Triangle</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>569</td><td>Primrose</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>570</td><td>Long Tail</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>571</td><td>Short Tail</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>572</td><td>Gold Mine</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>573</td><td>Double Gold Mine</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>574</td><td>Interchange</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>575</td><td>Unlimited</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>576</td><td>Breakwater</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>577</td><td>Forty Nine</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>578</td><td>Indian Patience</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>579</td><td>Three Pirates</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>580</td><td>Trapdoor</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>581</td><td>Flamenco</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>582</td><td>Wood</td><td></td><td>French (Terrace)</td></tr>
+
+<tr><td>583</td><td>Firing Squad</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>584</td><td>Eclipse</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>585</td><td>Lucky Thirteen</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>586</td><td>Lucky Piles</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>587</td><td>Double Fives</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>588</td><td>Roosevelt</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>589</td><td>Last Chance</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>590</td><td>Chinese Klondike</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>591</td><td>Pantagruel</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>592</td><td>Giza</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>593</td><td>Thirteens</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>594</td><td>Elevens</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>595</td><td>Elevens Too</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>596</td><td>Suit Elevens</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>597</td><td>Fifteens</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>598</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/patriarchs.html" title="Rules for this game">Picture Patience</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>599</td><td>Assembly</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>600</td><td>Anno Domini</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>601</td><td>American Canister</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>602</td><td>British Canister</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>603</td><td>Brisbane</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>604</td><td>Interment</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>605</td><td>Skippy</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>606</td><td>Strata</td><td>Persian Patience</td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>607</td><td>Legion</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>608</td><td>Frames</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>609</td><td>Grant's Reinforcement</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>610</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/slyfox.html" title="Rules for this game">Sly Fox</a>
+</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>611</td><td>Faerie Queen</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>612</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/intrigue.html" title="Rules for this game">Glencoe</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>613</td><td>Fanny</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>614</td><td>Open Sly Fox</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>615</td><td>British Blockade</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>616</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/intrigue.html" title="Rules for this game">Laggard Lady</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>617</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/grandduchess.html" title="Rules for this game">Parisienne</a>
+</td><td>La Parisienne<br>Parisian</td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>618</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/grandduchess.html" title="Rules for this game">Grand Duchess +</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>619</td><td>Triple Alliance</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>620</td><td>Les Quatre Coins</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>621</td><td>Regal Family</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>622</td><td>Grandmamma's Patience</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>623</td><td>Princess Patience</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>624</td><td>Step-Up</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>625</td><td>Fascination Fan</td><td>Demon Fan</td><td>French (Fan)</td></tr>
+
+<tr><td>626</td><td>Soother</td><td></td><td>French (Four-Deck game)</td></tr>
+
+<tr><td>627</td><td>Queen Victoria</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>628</td><td>Crossroads</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>629</td><td>Tuxedo</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>630</td><td>Big Bertha</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>631</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/alternation.html" title="Rules for this game">Alternation</a>
+</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>632</td><td>Floradora</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>633</td><td>Athena</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>634</td><td>Chinaman</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>635</td><td>Circle Eight</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>636</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/strategy.html" title="Rules for this game">Strategy +</a>
+</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>637</td><td>Bastille Day</td><td></td><td>French (Terrace)</td></tr>
+
+<tr><td>638</td><td>Royal Rendezvous</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>639</td><td>Shady Lanes</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>640</td><td>Brazilian Patience</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>641</td><td>Circle Nine</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>642</td><td>Lafayette</td><td></td><td>French (Canfield)</td></tr>
+
+<tr><td>643</td><td>Measure</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>644</td><td>Double Measure</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>645</td><td>Saxony</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>646</td><td>Adela</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>647</td><td>Crescent</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>648</td><td>Headquarters</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>649</td><td>Doublets II</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>650</td><td>Castles End</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>651</td><td>Eight by Eight</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>652</td><td>Ladies Battle</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>653</td><td>Senior Wrangler</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>654</td><td>Striptease</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>655</td><td>Pharaohs</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>656</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/accordion.html" title="Rules for this game">Accordion</a>
+</td><td>Idle Year<br>Methuselah<br>Tower of Babel</td><td>French (One-Deck game)</td></tr>
+
+<tr><td>657</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/baroness.html" title="Rules for this game">Baroness</a>
+</td><td>Five Piles</td><td>French (Pairing)</td></tr>
+
+<tr><td>658</td><td>Apophis</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>659</td><td>Cheops</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>660</td><td>Toni</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>661</td><td>Dolphin</td><td></td><td>French (Golf)</td></tr>
+
+<tr><td>662</td><td>Double Dolphin</td><td></td><td>French (Golf)</td></tr>
+
+<tr><td>663</td><td>The Last Monarch II</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>664</td><td>Spanish Patience II</td><td></td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>665</td><td>Penelope's Web</td><td></td><td>French (Beleaguered Castle)</td></tr>
+
+<tr><td>666</td><td>Trapdoor Spider</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>667</td><td>Kingsley</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>668</td><td>Double Kingsley</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>669</td><td>Scarp</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>670</td><td>Chinese Spider</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>671</td><td>Incompatibility</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>672</td><td>Scorpion II</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>673</td><td>Fifteen</td><td></td><td>French (Baker's Dozen)</td></tr>
+
+<tr><td>674</td><td>Exit</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>675</td><td>Four Winds</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>676</td><td>Boxing the Compass</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>677</td><td>Two Pyramids</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>678</td><td>Thieves of Egypt</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>679</td><td>Triple Interchange</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>680</td><td>Tarantula</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>681</td><td>King Tut</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>682</td><td>Dial</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>683</td><td>Famous Fifty</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>684</td><td>Deck</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>685</td><td>Fechter's Game</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>686</td><td>Hospital Patience</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>687</td><td>Glacier</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>688</td><td>Formic</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>689</td><td>Brush</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>690</td><td>Hemispheres</td><td>The Four Continents</td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>691</td><td>Khedive</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>692</td><td>Board Patience</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>693</td><td>Colonel</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>694</td><td>Casket</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>695</td><td>The Red and the Black</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>696</td><td>Florentine Patience</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>697</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bigben.html" title="Rules for this game">Big Ben</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>698</td><td>Can Can</td><td></td><td>French (Raglan)</td></tr>
+
+<tr><td>699</td><td>Double Pyramid</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>700</td><td>Triangle</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>701</td><td>Up and Down</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>702</td><td>Double Line</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>703</td><td>Four by Four</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>704</td><td>S Patience</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>705</td><td>Busy Cards</td><td></td><td>French (Napoleon)</td></tr>
+
+<tr><td>706</td><td>Paganini</td><td>Long Trip</td><td>French (Montana)</td></tr>
+
+<tr><td>707</td><td>Hawaiian</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>708</td><td>Barrier</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>709</td><td>Waterfall</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>710</td><td>Bebop</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>711</td><td>The Jolly Roger</td><td></td><td>French (Spider)</td></tr>
+
+<tr><td>712</td><td>Leprechaun</td><td></td><td>French (Gypsy)</td></tr>
+
+<tr><td>713</td><td>Flipper</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>714</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/shamrocksii.html" title="Rules for this game">Shamrocks II</a>
+</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>715</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/treasuretrove.html" title="Rules for this game">Treasure Trove</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>716</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/treasuretrove.html" title="Rules for this game">Peek II</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>717</td><td>Well</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>718</td><td>Locked Cards</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>719</td><td>School</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>720</td><td>Vague</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>721</td><td>Thirty</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>722</td><td>Twelve Sleeping Maids</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>723</td><td>Devil's Solitaire</td><td>Banner</td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>724</td><td>Eight Packs</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>725</td><td>Topsy-Turvy Queens</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>726</td><td>Eight Sages</td><td></td><td>French (Klondike)</td></tr>
+
+<tr><td>727</td><td>Right and Left</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>728</td><td>Thirty Two Cards</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>729</td><td>Two Rings</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>730</td><td>Phalanx</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>731</td><td>Three Fir-trees</td><td></td><td>French (Golf)</td></tr>
+
+<tr><td>732</td><td>Wave</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>733</td><td>Napoleon Takes Moscow</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>734</td><td>Napoleon Leaves Moscow</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>735</td><td>Hurricane</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>736</td><td>Spoilt</td><td></td><td>French (Montana)</td></tr>
+
+<tr><td>737</td><td>Clock</td><td>Travellers</td><td>French (One-Deck game)</td></tr>
+
+<tr><td>738</td><td>Boomerang</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>739</td><td>Forest Glade</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>740</td><td>Footling</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>741</td><td>Double Footling</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>742</td><td>Grandee</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>743</td><td>Turncoats</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>744</td><td>Voracious</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>745</td><td>Desert Island</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>746</td><td>Limpopo</td><td></td><td>French (FreeCell)</td></tr>
+
+<tr><td>747</td><td>Cringle</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>748</td><td>Twilight Zone</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>749</td><td>Flake</td><td></td><td>French (Golf)</td></tr>
+
+<tr><td>750</td><td>Flake (2 decks)</td><td></td><td>French (Golf)</td></tr>
+
+<tr><td>751</td><td>Blind Patience</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>752</td><td>Reserves</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>753</td><td>Flourish</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>754</td><td>Amphibian</td><td></td><td>French (Numerica)</td></tr>
+
+<tr><td>755</td><td>Choice</td><td></td><td>French (Three-Deck game)</td></tr>
+
+<tr><td>756</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/tabbycat.html" title="Rules for this game">Tabby Cat</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>757</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/manx.html" title="Rules for this game">Manx</a>
+</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>758</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mainecoon.html" title="Rules for this game">Maine Coon</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>759</td><td>Double Montana</td><td></td><td>French (Montana)</td></tr>
+
+<tr><td>760</td><td>Aglet</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>761</td><td>Catherine the Great</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>762</td><td>Four Packs</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>763</td><td>Wasatch</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>764</td><td>Beacon</td><td></td><td>French (One-Deck game)</td></tr>
+
+<tr><td>765</td><td>Foothold</td><td></td><td>French (Forty Thieves)</td></tr>
+
+<tr><td>766</td><td>Kentish</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>767</td><td>Quads +</td><td></td><td>French (Fan)</td></tr>
+
+<tr><td>768</td><td>Relaxed Three Fir-trees</td><td></td><td>French (Golf)</td></tr>
+
+<tr><td>901</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/labellelucie.html" title="Rules for this game">La Belle Lucie</a>
+</td><td>Fair Lucy<br>Midnight Oil</td><td>French (Fan)</td></tr>
+
+<tr><td>903</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/acesup.html" title="Rules for this game">Aces Up</a>
+</td><td>Aces High<br>Drivel</td><td>French (One-Deck game)</td></tr>
+
+<tr><td>5001</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Altar</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5002</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Arena</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5003</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Arena 2</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5004</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Arrow</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5005</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Art Moderne</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5006</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Balance</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5007</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Bat</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5008</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Beatle</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5009</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Big Hole</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5010</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Bizarre</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5011</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Boat</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5012</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Bug</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5013</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Butterfly</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5014</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Castle</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5015</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Cat and Mouse</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5016</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Ceremonial</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5017</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Checkered</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5018</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Chip</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5019</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Columns</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5020</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Crown</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5021</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Cupola</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5022</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Deep Well</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5023</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Dragon</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5024</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Dude</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5026</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Enterprise</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5027</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Eye</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5028</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg F-15 Eagle</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5029</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Farandole</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5030</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Fish</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5031</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Five Pyramids</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5033</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Flowers</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5034</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Flying Dragon</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5035</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Fortress Towers</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5036</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Full Vision</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5037</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Full Vision 2</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5038</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Future</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5039</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Garden</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5040</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Gayle's</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5041</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Glade</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5042</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg H for Haga</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5044</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Helios</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5045</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg High and Low</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5047</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Inca</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5048</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Inner Circle</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5049</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Joker</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5050</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg K for Kyodai</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5052</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Km</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5053</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Kujaku</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5054</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Labyrinth</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5055</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Lion</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5056</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Lost </a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5057</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Maya</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5058</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Mesh</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5059</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Moth</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5060</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg N for Namida</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5063</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg New Layout</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5064</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Order</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5065</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Pattern</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5067</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Portal</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5068</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Rocket</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5069</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Scorpion</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5070</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Screw Up</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5071</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Seven</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5072</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Seven Pyramids</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5073</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Shield</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5074</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Siam</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5076</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Square</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5077</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Squares</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5078</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Squaring</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5079</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Stairs</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5080</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Star Ship</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5081</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Step Pyramid</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5082</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Stonehenge</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5083</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg SunMoon</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5084</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Temple</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5086</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg The Door</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5087</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg The Great Wall</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5088</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Theater</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5089</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Tile Fighter</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5090</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Tilepiles</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5091</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Time Tunnel</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5092</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Tomb</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5094</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Traditional Reviewed</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5095</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Tree of Life</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5096</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Twin Temples</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5097</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Vi</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5098</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Victory Arrow</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5099</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Wavelets</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5100</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Well</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5102</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Yummy</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5200</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Another Round</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5201</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Aqab's</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5202</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Big Mountain</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5203</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Bridge</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5204</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Butterfly 2</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5205</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg ChessMania</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5206</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Cross</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5207</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Cupido's Heart</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5208</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Diamond</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5209</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Dragon 2</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5210</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Empty Pyramids</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5211</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Fish face</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5212</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Floating City</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5215</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Hidden Words</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5216</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Hovercraft</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5217</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Hurdles</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5218</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Tornado</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5219</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg IloveU</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5220</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Inazuma</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5221</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg JPs</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5222</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Japan</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5223</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Krebs</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5224</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Kumo</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5225</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Kyodai 14</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5226</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Kyodai 17</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5227</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Kyodai 18</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5228</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Kyodai 20</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5229</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Kyodai 23</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5230</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Kyodai 24</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5231</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Kyodai 25</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5232</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Kyodai 26</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5233</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Kyodai 27</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5234</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Kyodai 28</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5235</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Kyodai 41</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5236</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Kyodai 42</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5237</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Lattice</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5239</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Loose Ends</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5240</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Mini Traditional</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5241</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Mini-Layout</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5242</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Mission Impossible</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5243</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Multi X</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5245</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Okie's Nitemare</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5246</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Orbital</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5247</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Owl</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5248</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Pantheon</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5249</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Papillon</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5250</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Pyramid 1</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5251</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Pyramid 2</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5252</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Quad</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5253</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Rectangle</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5254</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Reindeer</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5255</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Rings</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5256</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg River Bridge</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5257</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Roman Arena</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5258</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Rugby</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5259</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Shapeshifter</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5260</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Space Bridge</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5261</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Space Shuttle</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5262</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Stage 1</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5263</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Stage 2</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5264</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Stairs 2</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5265</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Stairs 3</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5266</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Stargate</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5267</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Sukis</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5268</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Temple 1</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5269</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Temple 2</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5270</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Totally Random-Made</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5271</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Trika</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5272</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Twin</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5273</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Two Domes</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5274</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Vagues</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5275</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Well2</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5276</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Whatever</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5277</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Win</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5278</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg X-Files</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5279</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg X-Shape</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5401</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Taipei</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5402</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Hare</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5403</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Horse</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5404</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Rat</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5405</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Tiger</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5406</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Ram</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5407</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Wedges</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5408</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Monkey</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5409</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Rooster</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5410</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Dog</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5411</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Snake</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5412</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Boar</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5413</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Ox</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5414</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Mahjongg Bridge 2</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5801</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Double Mahjongg Faro</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5803</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Double Mahjongg Two Squares</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5805</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Double Mahjongg Twin Picks</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5806</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Double Mahjongg Roost</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5807</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Double Mahjongg Big Castle</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5808</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Double Mahjongg Eight Squares</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5809</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Double Mahjongg Big Flying Dragon</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5810</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Double Mahjongg Sphere</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5901</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Half Mahjongg Happy New Year</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5904</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Half Mahjongg Smile</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>5905</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mahjongg.html" title="Rules for this game">Half Mahjongg Wall</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>11001</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/shisensho.html" title="Rules for this game">Shisen-Sho 14x6</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>11002</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/shisensho.html" title="Rules for this game">Shisen-Sho 18x8</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>11003</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/shisensho.html" title="Rules for this game">Shisen-Sho 24x12</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>11004</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/shisensho.html" title="Rules for this game">Shisen-Sho (No Gravity) 14x6</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>11005</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/shisensho.html" title="Rules for this game">Shisen-Sho (No Gravity) 18x8</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>11006</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/shisensho.html" title="Rules for this game">Shisen-Sho (No Gravity) 24x12</a>
+</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>11011</td><td>Not Shisen-Sho 14x6</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>11012</td><td>Not Shisen-Sho 18x8</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>11013</td><td>Not Shisen-Sho 24x12</td><td></td><td>Mahjongg</td></tr>
+
+<tr><td>12345</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/oonsoo.html" title="Rules for this game">Oonsoo</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12346</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/matsukiri.html" title="Rules for this game">MatsuKiri</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12347</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/gaji.html" title="Rules for this game">Gaji</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12348</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/flowerclock.html" title="Rules for this game">Flower Clock</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12349</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pagoda.html" title="Rules for this game">Pagoda</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12350</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/samuri.html" title="Rules for this game">Samuri</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12351</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/greatwall.html" title="Rules for this game">Great Wall</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12352</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/hanafudafourwinds.html" title="Rules for this game">Hanafuda Four Winds</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12353</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/sumo.html" title="Rules for this game">Sumo</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12354</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bigsumo.html" title="Rules for this game">Big Sumo</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12355</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/littleeasy.html" title="Rules for this game">Little Easy</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12356</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bigeasy.html" title="Rules for this game">Big Easy</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12357</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/easysupreme.html" title="Rules for this game">Easy Supreme</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12358</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/justforfun.html" title="Rules for this game">Just For Fun</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12359</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/firecracker.html" title="Rules for this game">Firecracker</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12360</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/easyxone.html" title="Rules for this game">Easy x One</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12361</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/relax.html" title="Rules for this game">Relax</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12362</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/doublesamuri.html" title="Rules for this game">Double Samuri</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12363</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/supersamuri.html" title="Rules for this game">Super Samuri</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12364</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/doubleyourfun.html" title="Rules for this game">Double Your Fun</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12365</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/cherrybomb.html" title="Rules for this game">Cherry Bomb</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12366</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/oonsootoo.html" title="Rules for this game">Oonsoo Too</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12367</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/oonsoostrict.html" title="Rules for this game">Oonsoo Strict</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12368</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/oonsooopen.html" title="Rules for this game">Oonsoo Open</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12369</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/paulownia.html" title="Rules for this game">Paulownia</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12370</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/lesserqueue.html" title="Rules for this game">Lesser Queue</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12371</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/greaterqueue.html" title="Rules for this game">Greater Queue</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12372</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/matsukiristrict.html" title="Rules for this game">MatsuKiri Strict</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12373</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/japanesegarden.html" title="Rules for this game">Japanese Garden</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12374</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/japanesegardenii.html" title="Rules for this game">Japanese Garden II</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12375</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/sixsages.html" title="Rules for this game">Six Sages</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12376</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/sixtengus.html" title="Rules for this game">Six Tengus</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12377</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/japanesegardeniii.html" title="Rules for this game">Japanese Garden III</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12378</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/hanafudafourseasons.html" title="Rules for this game">Hanafuda Four Seasons</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12379</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/oonsootimestwo.html" title="Rules for this game">Oonsoo Times Two</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12380</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/eularia.html" title="Rules for this game">Eularia</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12381</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/peony.html" title="Rules for this game">Peony</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12382</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/iris.html" title="Rules for this game">Iris</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12383</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/pine.html" title="Rules for this game">Pine</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12384</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/wisteria.html" title="Rules for this game">Wisteria</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>12385</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/flowerarrangement.html" title="Rules for this game">Flower Arrangement</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>13001</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/katrinasgame.html" title="Rules for this game">Katrina's Game</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>13002</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bridgetsgame.html" title="Rules for this game">Bridget's Game</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>13003</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fatimehsgame.html" title="Rules for this game">Fatimeh's Game</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>13004</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/kalisgame.html" title="Rules for this game">Kali's Game</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>13005</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/dojoujisgame.html" title="Rules for this game">Dojouji's Game</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>13006</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/larasgamerelaxed.html" title="Rules for this game">Lara's Game Relaxed</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>13007</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/larasgamedoubled.html" title="Rules for this game">Lara's Game Doubled</a>
+</td><td></td><td>French (Two-Deck game)</td></tr>
+
+<tr><td>13008</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/katrinasgamerelaxed.html" title="Rules for this game">Katrina's Game Relaxed</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>13009</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/katrinasgamedoubled.html" title="Rules for this game">Katrina's Game Doubled</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>13010</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/bridgetsgamedoubled.html" title="Rules for this game">Bridget's Game Doubled</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>13011</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/kalisgamerelaxed.html" title="Rules for this game">Kali's Game Relaxed</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>13012</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/kalisgamedoubled.html" title="Rules for this game">Kali's Game Doubled</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>13013</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/fatimehsgamerelaxed.html" title="Rules for this game">Fatimeh's Game Relaxed</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>13014</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/dojoujisgamedoubled.html" title="Rules for this game">Dojouji's Game Doubled</a>
+</td><td></td><td>Hanafuda</td></tr>
+
+<tr><td>13163</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/cockroach.html" title="Rules for this game">Cockroach</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>13164</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/doublecockroach.html" title="Rules for this game">Double Cockroach</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>13165</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/corkscrew.html" title="Rules for this game">Corkscrew</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>13166</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/serpent.html" title="Rules for this game">Serpent</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>13167</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/rambling.html" title="Rules for this game">Rambling</a>
+</td><td></td><td>Tarock</td></tr>
+
+<tr><td>14401</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/mughalcircles.html" title="Rules for this game">Mughal Circles</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>14402</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/ghulam.html" title="Rules for this game">Ghulam</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>14403</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/shamsher.html" title="Rules for this game">Shamsher</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>14404</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/eightlegions.html" title="Rules for this game">Eight Legions</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>14405</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/ashrafi.html" title="Rules for this game">Ashrafi</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>14406</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/tipati.html" title="Rules for this game">Tipati</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>14407</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/ashwapati.html" title="Rules for this game">Ashwapati</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>14408</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/gajapati.html" title="Rules for this game">Gajapati</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>14409</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/narpati.html" title="Rules for this game">Narpati</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>14410</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/garhpati.html" title="Rules for this game">Garhpati</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>14411</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/dhanpati.html" title="Rules for this game">Dhanpati</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>14412</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/akbarstriumph.html" title="Rules for this game">Akbar's Triumph</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>14413</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/akbarsconquest.html" title="Rules for this game">Akbar's Conquest</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>15406</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/matsya.html" title="Rules for this game">Matsya</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15407</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/kurma.html" title="Rules for this game">Kurma</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15408</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/varaha.html" title="Rules for this game">Varaha</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15409</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/narasimha.html" title="Rules for this game">Narasimha</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15410</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/vamana.html" title="Rules for this game">Vamana</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15411</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/parashurama.html" title="Rules for this game">Parashurama</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15412</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/tenavatars.html" title="Rules for this game">Ten Avatars</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15413</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/dashavataracircles.html" title="Rules for this game">Dashavatara Circles</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15414</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/balarama.html" title="Rules for this game">Balarama</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15415</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/hayagriva.html" title="Rules for this game">Hayagriva</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15416</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/shanka.html" title="Rules for this game">Shanka</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15417</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/journeytocuddapah.html" title="Rules for this game">Journey to Cuddapah</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15418</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/longjourneytocuddapah.html" title="Rules for this game">Long Journey to Cuddapah</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15419</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/surukh.html" title="Rules for this game">Surukh</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15420</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/appachanswaterfall.html" title="Rules for this game">Appachan's Waterfall</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15421</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/hiranyaksha.html" title="Rules for this game">Hiranyaksha</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>15422</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/dashavatara.html" title="Rules for this game">Dashavatara</a>
+</td><td></td><td>Dashavatara Ganjifa</td></tr>
+
+<tr><td>16000</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/vajra.html" title="Rules for this game">Vajra</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>16001</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/danda.html" title="Rules for this game">Danda</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>16002</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/khadga.html" title="Rules for this game">Khadga</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>16003</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/makara.html" title="Rules for this game">Makara</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>16004</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/ashtadikapala.html" title="Rules for this game">Ashta Dikapala</a>
+</td><td></td><td>Mughal Ganjifa</td></tr>
+
+<tr><td>16666</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/klondikeplus16.html" title="Rules for this game">Klondike Plus 16</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>16667</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/hexaklonbythrees.html" title="Rules for this game">Hex A Klon by Threes</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>16668</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/kingonlyhexaklon.html" title="Rules for this game">King Only Hex A Klon</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>16669</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/thefamiliar.html" title="Rules for this game">The Familiar</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>16670</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/twofamiliars.html" title="Rules for this game">Two Familiars</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>16671</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/10x8.html" title="Rules for this game">10 x 8</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>16672</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/drawbridge.html" title="Rules for this game">Drawbridge</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>16673</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/doubledrawbridge.html" title="Rules for this game">Double Drawbridge</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>16674</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/hiddenpassages.html" title="Rules for this game">Hidden Passages</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>16675</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/cluitjarslair.html" title="Rules for this game">Cluitjar's Lair</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>16676</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/merlinsmeander.html" title="Rules for this game">Merlin's Meander</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>16677</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/magesgame.html" title="Rules for this game">Mage's Game</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>16678</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/convolution.html" title="Rules for this game">Convolution</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>16679</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/hexlabyrinth.html" title="Rules for this game">Hex Labyrinth</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>16680</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/snakestone.html" title="Rules for this game">Snakestone</a>
+</td><td></td><td>Hex A Deck</td></tr>
+
+<tr><td>22216</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/threepeaks.html" title="Rules for this game">Three Peaks</a>
+</td><td>Tri Peaks</td><td>French (Pairing)</td></tr>
+
+<tr><td>22223</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/matrix.html" title="Rules for this game"> 3x3 Matrix</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>22224</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/matrix.html" title="Rules for this game"> 4x4 Matrix</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>22225</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/matrix.html" title="Rules for this game"> 5x5 Matrix</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>22226</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/matrix.html" title="Rules for this game"> 6x6 Matrix</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>22227</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/matrix.html" title="Rules for this game"> 7x7 Matrix</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>22228</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/matrix.html" title="Rules for this game"> 8x8 Matrix</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>22229</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/matrix.html" title="Rules for this game"> 9x9 Matrix</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>22230</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/matrix.html" title="Rules for this game">10x10 Matrix</a>
+</td><td></td><td>Trumps only</td></tr>
+
+<tr><td>22231</td><td>
+<a href="/home/con/Projects/PySolFC/data/html/rules/threepeaksnonscoring.html" title="Rules for this game">Three Peaks Non-scoring</a>
+</td><td></td><td>French (Pairing)</td></tr>
+
+<tr><td>22232</td><td>Le Grande Teton</td><td></td><td>Tarock</td></tr>
+
+</table>
+</body></html>
